@@ -2,7 +2,7 @@
 
 This api is build in flask. it does email verification and sends output in json. In you uri you also pass the password parameter.
 
-# App usage and details
+# App usage details
 
 Full uri with parameter example: http://localhost:5000/api?email=ltmagwentshu@gmail.com
 
